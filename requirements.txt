@@ -4,4 +4,5 @@ platformdirs==4.5.0
 virtualenv==20.35.4
 gunicorn
 Django>=4.0
+whitenoise>=6.0
 
